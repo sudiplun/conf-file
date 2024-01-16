@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=viber
+GenericName=viber
+Exec=/home/lun/Applications/viber.AppImage
+Terminal=false
+Icon=/home/lun/Applications/viber.png
+Type=Application
+Categories=Application;Network;X-Developer;
+Comment=viber
+StartupWMClass=viber
+
+[Desktop Action Quit]
+Exec=/home/lun/Applications/viber.AppImage -quit
+Name=Quit viber
+Icon=application-exit

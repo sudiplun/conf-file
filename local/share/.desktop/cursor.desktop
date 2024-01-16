@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=cursor
+Comment[en_US]=code editor with AI
+Exec=/home/lun/Applications/cursor-0.7.3.AppImage
+Icon=/home/lun/Applications/cursor.svg
+Terminal=false
+Categories=Qt;KDE;Development;

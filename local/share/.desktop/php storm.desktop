@@ -1,0 +1,20 @@
+[Desktop Entry]
+Exec=/opt/PhpStorm-232.9921.55/bin/phpstorm.sh
+GenericName[en_US]=php IDE
+GenericName=php storm 
+Icon=phpstorm
+MimeType=text/plain;inode/directory;application/x-code-workspace;
+Name[en_US]=php storm
+Name=php storm
+StartupNotify=true
+Categories=TextEditor;Development;IDE;
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+Actions=new-empty-window;
+
+
+[Desktop Action new-empty-window]
+Name=New Empty Window
+Exec=/opt/PhpStorm-232.9921.55/bin/phpstorm.sh --new-window %F
+Icon=phpstorm

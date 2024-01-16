@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=stacer
+GenericName=stacer
+Exec=/home/lun/Applications/Stacer-1.1.0-x64.AppImage
+Terminal=false
+Icon=/home/lun/Applications/Stacer.png
+Type=Application
+Categories=Application;Administration;X-Developer;
+Comment=stacer
+StartupWMClass=stacer
+GenericName[en_US]=Administration
+Comment[en_US]=kill

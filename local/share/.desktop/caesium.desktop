@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=caesium
+GenericName=caesium
+Exec=/home/lun/Applications/Caesium_Image_Compressor-v2.2.1-Qt6.3.1-sus-x86_64.AppImage
+Terminal=false
+Icon=/home/lun/Applications/caesium.png
+Categories=Graphics;
+Comment=image compressor
+

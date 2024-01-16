@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Audio;Music;Player;AudioVideo;
+Comment[en_US]=Audio manupilator for linux
+Comment=Audio manupilator for linux
+Exec=/home/lun/Applications/audacity-linux-3.3.3-x64.AppImage
+GenericName[en_US]=Audio
+GenericName=Audio
+Icon=/home/lun/Applications/audacity.png
+MimeType=
+Name[en_US]=Audacity
+Name=Audacity
+Path=
+StartupNotify=true
+StartupWMClass=audacity
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

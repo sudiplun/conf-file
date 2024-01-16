@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AppImage Pool
+Icon=aip_appimagepool_fd4cc9ce4dd8e3a99594d0368307bb67
+Exec=/home/lun/Applications/appimagepool-5.0.0-x86_64_fd4cc9ce4dd8e3a99594d0368307bb67.AppImage %u
+StartupWMClass=appimagepool
+Categories=Utility;
+Keywords=AppImage;Store;AppImageHub;Flutter;Gtk;

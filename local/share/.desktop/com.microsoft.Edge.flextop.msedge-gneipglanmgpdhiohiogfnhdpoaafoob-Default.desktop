@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Bitwarden
+Exec=flatpak 'run' '--command=/app/bin/edge' 'com.microsoft.Edge' '--profile-directory=Default' '--app-id=gneipglanmgpdhiohiogfnhdpoaafoob' '--app-url=https://bitwarden.com/'
+Icon=msedge-gneipglanmgpdhiohiogfnhdpoaafoob-Default
+StartupWMClass=crx__gneipglanmgpdhiohiogfnhdpoaafoob
+X-Flatpak-Part-Of=com.microsoft.Edge
+TryExec=/var/lib/flatpak/exports/bin/com.microsoft.Edge

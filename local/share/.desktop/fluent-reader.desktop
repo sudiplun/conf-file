@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=Modern desktop RSS reader
+Comment=Modern desktop RSS reader
+Exec=/home/lun/Applications/Fluent.Reader.1.1.3.AppImage
+GenericName[en_US]=
+GenericName=
+Icon=/home/lun/Applications/fluent-reader.png
+MimeType=
+Name[en_US]=Fluent Reader
+Name=Fluent Reader
+Path=
+StartupNotify=true
+StartupWMClass=fluent-reader
+Terminal=false
+TerminalOptions=
+Type=Application
+X-AppImage-Version=1.1.3
+X-KDE-SubstituteUID=false
+X-KDE-Username=

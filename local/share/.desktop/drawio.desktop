@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Graphics;
+Comment[en_US]=draw.io desktop
+Comment=draw.io desktop
+Exec=/home/lun/Applications/drawio-x86_64-22.1.2.AppImage
+GenericName[en_US]=
+GenericName=
+Icon=/home/lun/Applications/drawio.jpg
+MimeType=application/vnd.visio;
+Name[en_US]=drawio
+Name=drawio
+Path=
+StartupNotify=true
+StartupWMClass=drawio
+Terminal=false
+TerminalOptions=
+Type=Application
+X-AppImage-Version=22.0.2
+X-KDE-SubstituteUID=false
+X-KDE-Username=

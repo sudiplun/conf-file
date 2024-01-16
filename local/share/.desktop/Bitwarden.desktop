@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Bitwarden
+GenericName=Password Manager
+Icon=/home/lun/Applications/bitwarden.png
+Exec=/home/lun/Applications/Bitwarden.AppImage
+Terminal=false
+Categories=Accesories;
+StartupWMClass=bitwarden
+MimeType=x-scheme-handler/bitwarden;text/html;

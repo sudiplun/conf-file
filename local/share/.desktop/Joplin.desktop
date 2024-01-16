@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Joplin
+Icon=/home/lun/Applications/Joplin.png
+Exec=/home/lun/Applications/Joplin-2.9.17.AppImage
+Categories=Office;
+

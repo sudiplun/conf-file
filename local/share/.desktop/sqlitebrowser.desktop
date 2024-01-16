@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DB Browser for SQLite
+Comment=DB Browser for SQLite is a light GUI editor for SQLite databases
+Exec=/home/lun/Applications/DB_Browser_for_SQLite-v3.12.2-x86_64.AppImage
+Icon=/home/lun/Applications/sqlitebrowser.png
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Development;Utility;Database;
+MimeType=application/vnd.db4s-project+xml;application/sqlitebrowser;application/x-sqlitebrowser;application/vnd.sqlite3;application/geopackage+sqlite3;application/x-sqlite2;application/x-sqlite3;
+
